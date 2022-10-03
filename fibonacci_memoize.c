@@ -1,6 +1,5 @@
 #include <stdio.h>
-int fibonacci(int n)
-{
+int fibonacci(int n){
   int f[n+2];
   int i;
   f[0] = 0;
